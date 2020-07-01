@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap");
+
+
+header {
+    background-color: cadetblue;
+    color: aliceblue;
+    text-align: center;
+    border: 20px solid #569 ;
+}
+    
+.pretty {
+    background-color: azure;
+    font-family: 'Chelsea Market', sans-serif;
+    margin: 7%
+}
+
+.fontsize1 {
+    font-size: 50px
+}
